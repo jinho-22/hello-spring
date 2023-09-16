@@ -11,4 +11,5 @@ public class HelloSpringApplication {
 		SpringApplication.run(HelloSpringApplication.class, args);
 	}
 
+//	http://localhost:8080/hello-mvc?name=Spring!!!
 }
